@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "todo": "Learn React.js",
+        "done": false
+    },
+    {
+        "id": 2,
+        "todo": "Meal Prep",
+        "done": false
+    },
+    {
+        "id": 3,
+        "todo": "Review notes",
+        "done": false
+    },
+    {
+        "id": 4,
+        "todo": "Meditate",
+        "done": false
+    }
+]
+
