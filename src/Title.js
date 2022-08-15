@@ -2,7 +2,7 @@ import React from "react";
 
 const Title = () => {
     return (
-        <h1> The never ending TODO List yayy </h1>
+        <h1> Time for a ToDo List </h1>
     );
 };
 
